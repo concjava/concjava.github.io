@@ -8,7 +8,7 @@ Este texto tem como objetivo dar a conhecer, de uma forma prática, os problemas
 
 ## Disponibilidade
 
-A ultima versão deste texto está disponível aqui: https://concjava.github.io/concjava.pdf
+A ultima versão deste texto está disponível aqui: [https://concjava.github.io/concjava.pdf](https://concjava.github.io/concjava.pdf)
 
 Pode ser distribuído livremente de acordo com a licença [Creative Commons By-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
