@@ -8,4 +8,15 @@ Este texto tem como objetivo dar a conhecer, de uma forma prática, os problemas
 
 ## Disponibilidade
 
-Brevemente!
+A ultima versão deste texto está disponível aqui: https://concjava.github.io/concjava.pdf
+
+Pode ser distribuído livremente de acordo com a licença [Creative Commons By-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Agradecemos que nos comuniquem quaisquer incorreções ou sugestões aqui: https://github.com/concjava/concjava.github.io/issues
+
+## Utilizadores
+
+Este texto é recomendado nos seguintes cursos:
+
+* [Sistemas Distribuídos](https://www4.di.uminho.pt/~jno/sitedi/uc_J605N2.html) na LEI da [U. Minho](https://www.uminho.pt)
+* [Sistemas Distribuídos](https://www4.di.uminho.pt/~jno/sitedi/uc_J606N7.html) na LETI da [U. Minho](https://www.uminho.pt)
