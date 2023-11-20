@@ -14,6 +14,12 @@ Pode ser distribuído livremente de acordo com a licença [Creative Commons By-N
 
 Agradecemos que nos [comuniquem quaisquer incorreções ou sugestões](https://github.com/concjava/concjava.github.io/issues).
 
+## Revisões
+
+* 20 de novembro de 2023: Novo capítulo com exercícios. Novos apêndices.
+* 9 de dezembro 2022: Pequenas correções.
+* 29 de outubro de 2022: Primeira edição.
+
 ## Utilizadores
 
 Este texto é recomendado nos seguintes cursos:
