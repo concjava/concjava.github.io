@@ -16,6 +16,7 @@ Agradecemos que nos [comuniquem quaisquer incorreções ou sugestões](https://g
 
 ## Revisões
 
+* 14 de setembro de 2025: Novo capítulo com exercício resolvido. Novo apêndice.
 * 20 de novembro de 2023: Novo capítulo com exercícios. Novos apêndices.
 * 9 de dezembro 2022: Pequenas correções.
 * 29 de outubro de 2022: Primeira edição.
